@@ -1,19 +1,3 @@
-// class AppLink {
-//   static const String server = "http://localhost:8000/api";
-//   ////////////////////////User////////////////////////////
-//   static const String signUp = "$server/register";
-//   static const String login = "$server/login";
-//   static const String getRoom = "$server/getRandomRooms";
-//   static const String roomTypes = "$server/GetRoomTypes";
-//   static const String getAvailableRoomByDate = "$server/getAvailableRoomsByDate";
-//   static const String massageRequest = "$server/RequestMassage";
-//   static const String getMenuItem = "$server/getListMenuItemsByUser";
-//   static const String requestOrder = "$server/RequestOrderByUser";
-//   static const String getOrderFood = "$server/getUserOrdersByUser";
-//   static const String bookRoom = "$server/BookRoom";
-//   // static const String login = "$server/login";
-//   // static const String login = "$server/login";
-// }
 class AppLink {
   static const String server = "http://localhost:8000/api";
 
